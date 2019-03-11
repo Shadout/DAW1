@@ -22,6 +22,7 @@ public class EjerciciosJava {
         String nombre = "Ejemplo";
         int edad = 27;
         double altura = 1.82;
+        double pie= 42;
         
         System.out.println("El nombre es "+nombre+" de "+edad+" años de edad, y mide "+altura);
     }
